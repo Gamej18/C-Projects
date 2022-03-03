@@ -1,0 +1,24 @@
+T-rex
+Tyrannosaurus was a bipedal carnivore with a massive skull balanced by a long, heavy tail. Relative to its large and powerful hind limbs, Tyrannosaurus forelimbs were short but unusually powerful for their size and had two clawed digits. 
+1000
+60
+Brachiosaurus
+Like all sauropod dinosaurs, Brachiosaurus was a quadruped with a small skull, a long neck, a large trunk with a high-ellipsoid cross section, a long, muscular tail and slender, columnar limbs.
+2000
+25
+Triceratops
+Bearing a large bony frill and three horns on the skull, and its large four-legged body possessing similarities with the modern rhinoceros, Triceratops is one of the most recognizable of all dinosaurs and the best-known ceratopsid.
+2000
+75
+Pteradactyl
+It was a carnivore and probably preyed upon fish and other small animals. Like all pterosaurs, Pterodactylus had wings formed by a skin and muscle membrane stretching from its elongated fourth finger to its hind limbs.
+800
+80
+Velociraptor
+A bipedal, feathered carnivore with a long tail and an enlarged sickle-shaped claw on each hindfoot, which is thought to have been used to tackle and disembowel prey. 
+800
+100
+Pteradactyl
+It was a carnivore and probably preyed upon fish and other small animals. Like all pterosaurs, Pterodactylus had wings formed by a skin and muscle membrane stretching from its elongated fourth finger to its hind limbs.
+800
+80
